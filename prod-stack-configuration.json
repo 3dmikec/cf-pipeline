@@ -1,0 +1,9 @@
+{
+  "Parameters" : {
+    "DBName" : "ProdWordPressDB",
+    "DBPassword" : "D49^3^G^kQTr",
+    "DBRootPassword" : "vM299!Cfh2Vz",
+    "DBUser" : "ProdDBuser",    
+    "KeyName" : "us-east-kp"
+  }
+}
