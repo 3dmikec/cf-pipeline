@@ -1,9 +1,11 @@
 {
   "Parameters" : {
     "DBName" : "ProdWordPressDB",
-    "DBPassword" : "D49^3^G^kQTr",
-    "DBRootPassword" : "vM299!Cfh2Vz",
-    "DBUser" : "ProdDBuser",    
-    "KeyName" : "us-east-kp"
+    "DBPassword" : "D4953jG7kQTr",
+    "DBRootPassword" : "vM299vCfh2Vz",
+    "DBUsername" : "ProdDBuser",    
+    "KeyName" : "us-east-kp",
+    "InstanceType" : "t2.micro",
+    "SSHLocation" : "0.0.0.0/0"
   }
 }
